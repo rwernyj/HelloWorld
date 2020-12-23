@@ -1,0 +1,3 @@
+Here is a good example of how to be able to begin writing code in the 
+fashion, and hopefully something that can be useful in the near future.
+
